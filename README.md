@@ -4,7 +4,7 @@
 - Credit to: https://www.kaggle.com/mehmetisik & https://www.kaggle.com/bishalshil
 
 In this project we want to know how the development of renewable energy in Indonesia and then how is the comparison of it's development to neighboring & developed country.
-The tools that we will use to prepare,analyst, and visualize the data are using python and excel. Following these inquiries, we need to investigate them, then extract insights from the visualized data.
+The tools that we use to prepare, analyst, and visualize the data are using python and excel. Following these inquiries, we need to investigate them, then extract insights from the visualized data.
 1. How are the renewable energy sources in Indonesia's electricity generation throughout the year?
 2. How is the distribution of renewable energy sources in Indonesia's electricity generation in recent years?
 3. How does renewable energy generation in Indonesia compare to that of neighboring countries throughout the year?
